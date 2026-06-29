@@ -1,0 +1,28 @@
+
+set(FILES
+    Source/Tools/EditorExtensionsEditorSystemComponent.cpp
+    Source/Tools/EditorExtensionsEditorSystemComponent.h
+    Source/Tools/ComponentPreset/ComponentPreset.qrc
+    Source/Tools/ComponentPreset/component_preset.svg
+    Source/Tools/ComponentPreset/ComponentPresetHelper.h
+    Source/Tools/ComponentPreset/ComponentPresetHelper.cpp
+    Source/Tools/EditorExtensionsWidget.cpp
+    Source/Tools/EditorExtensionsWidget.h
+    Source/Tools/EditorExtensions.qrc
+    Source/Tools/AttachmentPreview/AttachmentPreview.qrc
+    Source/Tools/AttachmentPreview/attachment_preview.svg
+    Source/Tools/CppGenerator/CppGeneratorWidget.cpp
+    Source/Tools/CppGenerator/CppGeneratorWidget.h
+    Source/Tools/CppGenerator/CppGeneratorWidget.ui
+    Source/Tools/CppGenerator/CppGenerator.qrc
+    Source/Tools/CppGenerator/cpp_generator.svg
+    Source/Tools/Screenshot/ScreenshotCustomResolutionDialog.cpp
+    Source/Tools/Screenshot/ScreenshotCustomResolutionDialog.h
+    Source/Tools/Screenshot/ViewportScreenshotActionHandler.cpp
+    Source/Tools/Screenshot/ViewportScreenshotActionHandler.h
+    Source/Tools/Screenshot/ViewportScreenshotCapture.cpp
+    Source/Tools/Screenshot/ViewportScreenshotCapture.h
+    Source/Tools/Screenshot/ViewportScreenshotUtils.cpp
+    Source/Tools/Screenshot/ViewportScreenshotUtils.h
+    Source/Tools/Screenshot/snapshot.svg
+)

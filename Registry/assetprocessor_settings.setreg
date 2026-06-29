@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder EditorExtensions/Assets": {
+                    "watch": "@GEMROOT:EditorExtensions@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder EditorExtensions/Registry": {
+                    "watch": "@GEMROOT:EditorExtensions@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/EditorExtensions">
+        <file alias="toolbar_icon.svg">toolbar_icon.svg</file>
+        <file alias="snapshot.svg">Screenshot/snapshot.svg</file>
+    </qresource>
+</RCC>

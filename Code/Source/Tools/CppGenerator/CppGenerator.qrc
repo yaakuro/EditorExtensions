@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/CppGenerator">
+        <file alias="cpp_generator.svg">cpp_generator.svg</file>
+    </qresource>
+</RCC>

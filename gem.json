@@ -1,0 +1,30 @@
+{
+    "gem_name": "EditorExtensions",
+    "version": "1.0.0",
+    "display_name": "Editor Extensions",
+    "license": "MIT",
+    "license_url": "",
+    "origin": "Cengiz Terzibas",
+    "origin_url": "",
+    "type": "Code",
+    "summary": "",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "EditorExtensions"
+    ],
+    "platforms": [
+        "Windows","Android","iOS","Linux"
+    ],
+    "icon_path": "",
+    "requirements": "",
+    "documentation_url": "",
+    "dependencies": [
+    ],
+    "repo_uri": "",
+    "compatible_engines": [
+    ],
+    "engine_api_dependencies":[
+    ]
+}

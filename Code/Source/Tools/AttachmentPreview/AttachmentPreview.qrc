@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/AttachmentPreview">
+        <file alias="attachment_preview.svg">attachment_preview.svg</file>
+    </qresource>
+</RCC>

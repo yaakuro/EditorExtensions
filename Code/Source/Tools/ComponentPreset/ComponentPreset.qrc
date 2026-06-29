@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/ComponentPreset">
+        <file alias="component_preset.svg">component_preset.svg</file>
+    </qresource>
+</RCC>
